@@ -7,7 +7,7 @@
 <li>User registration,login and password reset through email</li>
 <li>Adding and removing products from the cart</li>
 <li>Increasing and decreasing product quantity.</li>
-<li>Addin and removing prducts to wishlist.</li>
+<li>Adding and removing prducts to wishlist.</li>
 <li>Apply Coupon and get discount.</li>
 <li>Checkout process with payment gateway integration or Cash on delivary</li>
 <li>Recieve invoice of purchage via email</li>
