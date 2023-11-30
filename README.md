@@ -8,7 +8,8 @@
 <li>Adding and removing products from the cart</li>
 <li>Increasing and decreasing product quantity.</li>
 <li>Adding and removing prducts to wishlist.</li>
-<li>Applying Coupon and getting discount.</li>
+<li>Rate and review products</li>
+<li>Applying Coupon and receiving  discount.</li>
 <li>Checkout process with payment gateway integration or Cash on delivary</li>
 <li>Recieving invoice of purchage via email</li>
 </ul>
